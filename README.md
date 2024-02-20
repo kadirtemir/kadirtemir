@@ -1,4 +1,4 @@
-<h2 align="left">Kadir Temir</h2>
+<h2 align="left">Hi 👋! My name is Kadir and I'm a Developer, from Turkey 🇹🇷</h2>
 
 ###
 
